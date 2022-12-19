@@ -20,3 +20,4 @@ tmp/
 cache_*/
 .autosave
 *.resources/
+*.fbm/
