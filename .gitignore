@@ -21,3 +21,4 @@ cache_*/
 .autosave
 *.resources/
 *.fbm/
+blendcache_*/
