@@ -21,4 +21,5 @@ cache_*/
 .autosave
 *.resources/
 *.fbm/
+fbx/
 blendcache_*/
